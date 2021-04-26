@@ -1,4 +1,4 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=raphaelquintao&layout=default&show_icons=true&hide_border=true&disable_animations=true&locale=en&bg_color=161b22&title_color=c9d1d9&text_color=c9d1d9&icon_color=fe428e&custom_title=Hi%20there!)
+![Stats](https://github-readme-stats.vercel.app/api?username=raphaelquintao&layout=default&show_icons=true&hide_border=true&disable_animations=true&locale=en&bg_color=161b22&title_color=c9d1d9&text_color=c9d1d9&icon_color=fe428e&hide_title=true&custom_title=Hi%20there!)
 
 
 #### Feel free to buy me a beer if you want! :beer:
