@@ -7,7 +7,7 @@
 
 
 <details closed>
-<summary>My whole story with computers and programmin</summary>
+<summary>My whole story with computers and programming</summary>
 <br>
 To be written... 
 </details>
