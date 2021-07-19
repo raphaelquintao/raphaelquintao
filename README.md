@@ -4,3 +4,10 @@
 #### If you enjoy my work feel free to buy me a beer :beer:
  - [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZLHQD3GQ5YNR6&source=url)
  - Bitcoin: ```1NaiaFcVGrrMs9amjyb4aVV1dJoLfdKe3Q```
+
+
+<details closed>
+<summary>My whole story with computers and programmin</summary>
+<br>
+To be written... 
+</details>
