@@ -9,5 +9,6 @@
 <details closed>
 <summary>More</summary>
 <br>
-Nothing here yet... 
+I have been programming in many languages for over 10 years, now i'm finally getting good at it... 
+
 </details>
