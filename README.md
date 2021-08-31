@@ -11,13 +11,13 @@ I've been programming for over 10 years, now i'm finally getting good at it...
 - [QAudioVizualizer](https://github.com/raphaelquintao/QAudioVisualizer) - Lightweight Linux GTK Audio Visualizer
 
 #### C#
-- [EyeSaver](https://github.com/raphaelquintao/EyeSaver) Windows App to change screen color temperature
+- [EyeSaver](https://github.com/raphaelquintao/EyeSaver) - Windows App to change screen color temperature
 
 #### PHP
 - [QRoute](https://github.com/raphaelquintao/QRoute) - Powerful and Simple PHP Route library. Just one file. 
 
 #### Node (javascript)
-- [QJukebox](https://github.com/raphaelquintao/QJukebox) - A modern discord music bot with playlist support
+- [QJukebox](https://github.com/raphaelquintao/QJukebox) - A modern discord music bot with playlists support
 - [qimagemagick](https://github.com/raphaelquintao/node-qimagemagick) - A wrapper for the ImageMagick CLI
 
 #### Javascript
