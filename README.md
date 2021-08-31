@@ -9,8 +9,8 @@ I've been programming in many languages for over 10 years, now i'm finally getti
 
 ### Projects
 #### Python
-- [QColor](https://github.com/raphaelquintao/QColor) Awesome Sublime Color Highlighter, Converter and Picker 
-- [QAudioVizualizer](https://github.com/raphaelquintao/QAudioVisualizer) Lightweight Linux GTK Audio Visualizer
+- [QColor](https://github.com/raphaelquintao/QColor) - Awesome Sublime Color Highlighter, Converter and Picker 
+- [QAudioVizualizer](https://github.com/raphaelquintao/QAudioVisualizer) - Lightweight Linux GTK Audio Visualizer
 
 #### C#
 - [EyeSaver](https://github.com/raphaelquintao/EyeSaver) Windows App to change screen color temperature
