@@ -8,6 +8,9 @@ I've been programming in many languages for over 10 years, now i'm finally getti
  - Bitcoin: ```1NaiaFcVGrrMs9amjyb4aVV1dJoLfdKe3Q```
 
 ### Projects
+#### Java
+- [SimpsonDetector](https://github.com/raphaelquintao/SimpsonDetector) - Mobile computer vision system to detect Simpsons characters using training images
+
 #### Python
 - [QColor](https://github.com/raphaelquintao/QColor) - Awesome Sublime Color Highlighter, Converter and Picker 
 - [QAudioVizualizer](https://github.com/raphaelquintao/QAudioVisualizer) - Lightweight Linux GTK Audio Visualizer
