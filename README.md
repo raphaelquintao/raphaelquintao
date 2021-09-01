@@ -38,6 +38,6 @@ I've been programming for over 10 years, now i'm finally getting good at it...
 <details closed>
 <summary>More</summary>
 <br>
-Hire a programmer who makes open source code, if he does it for free imagine what he can do when he gets paid? 
+Hire a programmer who makes open source code, if he does it for free imagine what he can do when he gets paid.
 
 </details>
