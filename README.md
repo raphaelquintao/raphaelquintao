@@ -1,8 +1,9 @@
-I've been programming for over 10 years, now i'm finally getting good at it...
+#### I've been programming for over 10 years, now i'm finally getting good at it...
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=raphaelquintao&layout=default&show_icons=true&hide_border=true&disable_animations=true&locale=en&bg_color=161b22&title_color=c9d1d9&text_color=c9d1d9&icon_color=fe428e&cache_seconds=1800&hide_title=true&custom_title=Hi%20there!)
 
-### Projects
+## Projects
+
 #### Java
 - [SimpsonDetector](https://github.com/raphaelquintao/SimpsonDetector) - Mobile computer vision system to detect Simpsons characters using training images
 
@@ -30,6 +31,8 @@ I've been programming for over 10 years, now i'm finally getting good at it...
 #### C++
 - [QSE](https://github.com/raphaelquintao/QSE) - Full search engine
 - [QGLC](https://github.com/raphaelquintao/QGLC) - A single pass, recursive descendant LL(1) compiler written for academic purpose. 
+
+------
 
 ### If you enjoy my work feel free to buy me a beer :beer:
  - [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZLHQD3GQ5YNR6&source=url)
