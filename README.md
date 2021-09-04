@@ -4,9 +4,6 @@
 
 ## Projects
 
-#### Java
-- [SimpsonDetector](https://github.com/raphaelquintao/SimpsonDetector) - Mobile computer vision system to detect Simpsons characters using training images
-
 #### Python
 - [QColor](https://github.com/raphaelquintao/QColor) - Awesome Sublime Color Highlighter, Converter and Picker 
 - [QAudioVisualizer](https://github.com/raphaelquintao/QAudioVisualizer) - Lightweight Linux GTK Audio Visualizer, this was made to be used on my [24/7 music live stream](https://www.twitch.tv/chillbeatsradio)
@@ -28,9 +25,13 @@
 - [QBoids](https://github.com/raphaelquintao/QBoids) - An interactive variant of the Craig Reynold's Boids algorithm in WebGL  
 - [QToasty](https://github.com/raphaelquintao/QToasty) - Pure JavaScript Mortal Kombat toasty guy easter egg. 
 
+#### Java
+- [SimpsonDetector](https://github.com/raphaelquintao/SimpsonDetector) - Mobile computer vision system to detect Simpsons characters using training images
+
 #### C++
 - [QSE](https://github.com/raphaelquintao/QSE) - Full search engine
 - [QGLC](https://github.com/raphaelquintao/QGLC) - A single pass, recursive descendant LL(1) compiler written for academic purpose. 
+
 
 ------
 
