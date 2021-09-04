@@ -15,7 +15,7 @@
 - [EyeSaver](https://github.com/raphaelquintao/EyeSaver) - Windows App to change screen color temperature
 
 #### PHP
-- [QRoute](https://github.com/raphaelquintao/QRoute) - Lightweight, simple and powerful PHP route library. Just one file.
+- [QRoute](https://github.com/raphaelquintao/QRoute) - Lightweight, simple and powerful PHP router library. Just one file.
 
 #### Node (javascript)
 - [QJukebox](https://github.com/raphaelquintao/QJukebox) - A modern discord music bot with playlists support
