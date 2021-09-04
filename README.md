@@ -19,11 +19,11 @@
 - [qimagemagick](https://github.com/raphaelquintao/node-qimagemagick) - A wrapper for the ImageMagick CLI
 
 #### Javascript
-- [QPlayer](https://github.com/raphaelquintao/QPlayer) - WebGL video player experiment
 - [QRedshift](https://github.com/raphaelquintao/QRedshift) - Redshift applet for Linux Cinnamon  
 - [Photophobia](https://github.com/raphaelquintao/PhotophobiaFirefox) - Firefox dynamic theme that let you change the Hue, Saturation and Brightness of the Texts and Panels
-- [QBoids](https://github.com/raphaelquintao/QBoids) - An interactive variant of the Craig Reynold's Boids algorithm in WebGL  
 - [QToasty](https://github.com/raphaelquintao/QToasty) - Pure JavaScript Mortal Kombat toasty guy easter egg. 
+- [QPlayer](https://github.com/raphaelquintao/QPlayer) - WebGL video player experiment
+- [QBoids](https://github.com/raphaelquintao/QBoids) - An interactive variant of the Craig Reynold's Boids algorithm in WebGL  
 
 #### Java
 - [SimpsonDetector](https://github.com/raphaelquintao/SimpsonDetector) - Mobile computer vision system to detect Simpsons characters using training images
