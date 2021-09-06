@@ -25,6 +25,9 @@
 - [QPlayer](https://github.com/raphaelquintao/QPlayer) - WebGL video player experiment
 - [QBoids](https://github.com/raphaelquintao/QBoids) - An interactive variant of the Craig Reynold's Boids algorithm in WebGL  
 
+#Typescript
+- [QTestmail](https://github.com/raphaelquintao/qtestmail) - Angular Front End to testmail.app 
+
 #### Java
 - [SimpsonDetector](https://github.com/raphaelquintao/SimpsonDetector) - Mobile computer vision system to detect Simpsons characters using training images
 
