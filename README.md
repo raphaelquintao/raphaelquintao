@@ -6,6 +6,8 @@
 
 #### Python
 - [QColor](https://github.com/raphaelquintao/QColor) - Awesome Sublime Color Highlighter, Converter and Picker 
+
+#### Python + C
 - [QAudioVisualizer](https://github.com/raphaelquintao/QAudioVisualizer) - Lightweight Linux GTK Audio Visualizer, this was made to be used on my [24/7 music live stream](https://www.twitch.tv/chillbeatsradio)
 
 #### C#
