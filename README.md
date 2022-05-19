@@ -23,6 +23,7 @@
 #### Javascript
 - [QRedshift](https://github.com/raphaelquintao/QRedshift) - Redshift applet for Linux Cinnamon  
 - [Photophobia](https://github.com/raphaelquintao/PhotophobiaFirefox) - Firefox dynamic theme that let you change the Hue, Saturation and Brightness of the Texts and Panels
+- [QFirefoxMod](https://github.com/raphaelquintao/QFirefoxMod) - Experimental custom module to improve Firefox. 
 - [QToasty](https://github.com/raphaelquintao/QToasty) - Pure JavaScript Mortal Kombat toasty guy easter egg. 
 - [QPlayer](https://github.com/raphaelquintao/QPlayer) - WebGL video player experiment
 - [QBoids](https://github.com/raphaelquintao/QBoids) - An interactive variant of the Craig Reynold's Boids algorithm in WebGL  
