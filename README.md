@@ -21,7 +21,7 @@
 - [qimagemagick](https://github.com/raphaelquintao/node-qimagemagick) - A wrapper for the ImageMagick CLI
 
 #### Javascript
-- [QRedshift](https://github.com/raphaelquintao/QRedshift) - Redshift applet for Linux Cinnamon  
+- [QRedshift](https://github.com/raphaelquintao/QRedshift) - Linux Cinnamon applet to change screen color temperature 
 - [Photophobia](https://github.com/raphaelquintao/PhotophobiaFirefox) - Firefox dynamic theme that let you change the Hue, Saturation and Brightness of the Texts and Panels
 - [QFirefoxMod](https://github.com/raphaelquintao/QFirefoxMod) - Bring back the old userChrome.js to newer Firefox, and more...
 - [QToasty](https://github.com/raphaelquintao/QToasty) - Pure JavaScript Mortal Kombat toasty guy easter egg. 
