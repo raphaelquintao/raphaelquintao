@@ -48,6 +48,6 @@
 <details closed>
 <summary>More</summary>
 <br>
-Hire a programmer who makes open source code, if he does it for free imagine what he can do when he gets paid.
+Why not hire a programmer who generously dishes out open-source code for free? Because clearly, the prospect of getting paid would be such a hindrance to their coding prowess. The real magic happens when money isn't involved, right?
 
 </details>
