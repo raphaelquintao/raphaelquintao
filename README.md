@@ -1,4 +1,4 @@
-#### I've been programming for over 15 years, now i'm finally getting good at it...
+#### After only 15 casual years of programming, I think I'm starting to understand the basics now. Better late than never, I suppose.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=raphaelquintao&layout=default&show_icons=true&hide_border=true&disable_animations=true&locale=en&bg_color=161b22&title_color=c9d1d9&text_color=c9d1d9&icon_color=fe428e&cache_seconds=1800&hide_title=true&custom_title=Hi%20there!)
 
