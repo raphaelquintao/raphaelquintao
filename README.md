@@ -1,4 +1,4 @@
-#### After only 15 casual years of programming, I think I'm starting to understand the basics now. Better late than never, I suppose.
+#### After only 15 casual years of programming, I think I'm starting to understand the basics now. Better late than never.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=raphaelquintao&layout=default&show_icons=true&hide_border=true&disable_animations=true&locale=en&bg_color=161b22&title_color=c9d1d9&text_color=c9d1d9&icon_color=fe428e&cache_seconds=1800&hide_title=true&custom_title=Hi%20there!)
 
@@ -48,6 +48,6 @@
 <details closed>
 <summary>More</summary>
 <br>
-Why not hire a programmer who generously gives away open-source code for free? Because clearly, the prospect of getting paid would be such a hindrance to their coding prowess. The real magic happens when money isn't involved, right?
+Why not hire a programmer who generously gives away open-source code for free? Because clearly, the prospect of getting paid would be such a impediment to their coding skill. The real magic happens when money isn't involved, right?
 
 </details>
