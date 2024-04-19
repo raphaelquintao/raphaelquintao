@@ -4,6 +4,9 @@
 
 ## Projects
 
+#### Linux Specific
+- [QLogo](https://github.com/raphaelquintao/qlogo) - A Minimalist Plymouth Theme
+
 #### Python
 - [QColor](https://github.com/raphaelquintao/QColor) - Awesome Sublime Color Highlighter, Converter and Picker 
 
