@@ -5,10 +5,13 @@
 ## Projects
 
 #### Linux Specific
-- [QLogo](https://github.com/raphaelquintao/qlogo) - A Minimalist Plymouth Theme
+- [QLogo](https://github.com/raphaelquintao/qlogo) - A Minimalist Plymouth Theme.
 
 #### Python
-- [QColor](https://github.com/raphaelquintao/QColor) - Awesome Sublime Color Highlighter, Converter and Picker 
+- [QColor](https://github.com/raphaelquintao/QColor) - Awesome Sublime Color Highlighter, Converter and Picker .
+
+#### C
+- [QRedshift](https://github.com/raphaelquintao/QRedshift) - Linux terminal app to change screen color temperature. 
 
 #### Python + C
 - [QAudioVisualizer](https://github.com/raphaelquintao/QAudioVisualizer) - Lightweight Linux GTK Audio Visualizer.
@@ -20,12 +23,12 @@
 - [QRoute](https://github.com/raphaelquintao/QRoute) - Lightweight, simple and powerful PHP router library. Just one file.
 
 #### Node (javascript)
-- [QJukebox](https://github.com/raphaelquintao/QJukebox) - A modern discord music bot with playlist support
-- [qimagemagick](https://github.com/raphaelquintao/node-qimagemagick) - A wrapper for the ImageMagick CLI
+- [QJukebox](https://github.com/raphaelquintao/QJukebox) - A modern discord music bot with playlist support.
+- [qimagemagick](https://github.com/raphaelquintao/node-qimagemagick) - A wrapper for the ImageMagick CLI.
 
 #### Javascript
-- [QRedshift](https://github.com/raphaelquintao/QRedshift) - Linux Cinnamon applet to change screen color temperature 
-- [Photophobia](https://github.com/raphaelquintao/PhotophobiaFirefox) - Firefox dynamic theme that let you change the Hue, Saturation and Brightness of the Texts and Panels
+- [QRedshiftCinnamon](https://github.com/raphaelquintao/QRedshiftCinnamon) - Linux Cinnamon applet to change screen color temperature.
+- [Photophobia](https://github.com/raphaelquintao/PhotophobiaFirefox) - Firefox dynamic theme that let you change the Hue, Saturation and Brightness of the Texts and Panels.
 - [QFirefoxMod](https://github.com/raphaelquintao/QFirefoxMod) - Bring back the old userChrome.js to newer Firefox, and more...
 - [QToasty](https://github.com/raphaelquintao/QToasty) - Pure JavaScript Mortal Kombat toasty guy easter egg. 
 - [QPlayer](https://github.com/raphaelquintao/QPlayer) - WebGL video player experiment
