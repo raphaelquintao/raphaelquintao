@@ -6,18 +6,19 @@
 
 #### Linux Specific
 - [QLogo](https://github.com/raphaelquintao/qlogo) - A Minimalist Plymouth Theme.
-
-#### Python
-- [QColor](https://github.com/raphaelquintao/QColor) - Awesome Sublime Color Highlighter, Converter and Picker .
+- [QRedshiftCinnamon](https://github.com/raphaelquintao/QRedshiftCinnamon) - Linux Cinnamon applet to change screen color temperature.
 
 #### C
 - [QRedshift](https://github.com/raphaelquintao/QRedshift) - Linux terminal app to change screen color temperature. 
+
+#### Python
+- [QColor](https://github.com/raphaelquintao/QColor) - Awesome Sublime Color Highlighter, Converter and Picker .
 
 #### Python + C
 - [QAudioVisualizer](https://github.com/raphaelquintao/QAudioVisualizer) - Lightweight Linux GTK Audio Visualizer.
 
 #### C#
-- [EyeSaver](https://github.com/raphaelquintao/EyeSaver) - Windows App to change screen color temperature
+- [EyeSaver](https://github.com/raphaelquintao/EyeSaver) - Windows app to change screen color temperature.
 
 #### PHP
 - [QRoute](https://github.com/raphaelquintao/QRoute) - Lightweight, simple and powerful PHP router library. Just one file.
@@ -27,7 +28,6 @@
 - [qimagemagick](https://github.com/raphaelquintao/node-qimagemagick) - A wrapper for the ImageMagick CLI.
 
 #### Javascript
-- [QRedshiftCinnamon](https://github.com/raphaelquintao/QRedshiftCinnamon) - Linux Cinnamon applet to change screen color temperature.
 - [Photophobia](https://github.com/raphaelquintao/PhotophobiaFirefox) - Firefox dynamic theme that let you change the Hue, Saturation and Brightness of the Texts and Panels.
 - [QFirefoxMod](https://github.com/raphaelquintao/QFirefoxMod) - Bring back the old userChrome.js to newer Firefox, and more...
 - [QToasty](https://github.com/raphaelquintao/QToasty) - Pure JavaScript Mortal Kombat toasty guy easter egg. 
