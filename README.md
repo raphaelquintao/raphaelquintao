@@ -34,7 +34,7 @@
 - [QPlayer](https://github.com/raphaelquintao/QPlayer) - WebGL video player experiment
 - [QBoids](https://github.com/raphaelquintao/QBoids) - An interactive variant of the Craig Reynold's Boids algorithm in WebGL  
 
-#### Typescript
+#### Angular
 - [QTestmail](https://github.com/raphaelquintao/qtestmail) - Angular Front End to testmail.app 
 
 #### Java
