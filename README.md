@@ -1,6 +1,13 @@
-#### After around 15 casual years of programming, I think I'm starting to understand the basics now. Better late than never.
+## Over a Decade of Code, Bugs, and Coffee
 
-![Stats](https://github-readme-stats.vercel.app/api?username=raphaelquintao&layout=default&show_icons=true&hide_border=true&disable_animations=true&locale=en&bg_color=161b22&title_color=c9d1d9&text_color=c9d1d9&icon_color=fe428e&cache_seconds=1800&hide_title=true&custom_title=Hi%20there!)
+With 10+ years of experience, I’ve survived every version of every framework, wrestled with legacy systems, and debugged code that made me question what I was doing with my life. 
+
+I speak fluent Java, Javascript, PHP, C, C++, and a handful of others that I occasionally regret learning.
+
+**P.S.:** Write code like the next person to touch it knows where you live.
+
+
+
 
 ## Open Source Projects
 
