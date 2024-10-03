@@ -1,6 +1,6 @@
-## Over a Decade of Code, Bugs, and Coffee
+## Over a decade of Code, Bugs, and Coffee
 
-With 15+ years of experience, I’ve survived every version of every framework, wrestled with legacy systems, and debugged code that made me question what I was doing with my life. 
+With over 15 years of experience, I’ve survived every version of every framework, wrestled with legacy systems, and debugged code that made me question what I was doing with my life. 
 
 I speak fluent Java, Javascript, PHP, C, C++, and a handful of others that I occasionally regret learning.
 
