@@ -60,7 +60,7 @@ I speak fluent Java, Javascript, PHP, C, C++, and a handful of others that I occ
 
 <details closed>
 <summary>More</summary>
-<br>
-Why not hire a programmer who generously gives away open-source code for free? Because clearly, the prospect of getting paid would be such a impediment to their coding skill. The real magic happens when money isn't involved, right?
+ 
+ - I also code for money, feel free to contact-me.
 
 </details>
