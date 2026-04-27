@@ -15,9 +15,11 @@ I speak fluent Java, Javascript, PHP, C, C++, and a handful of others that I occ
 
 ## Open Source Projects
 
-#### Android (Last Project) - Preview
+#### Browser Extension (Javascript)
+- [Qolor - Theme engine for Firefox](https://github.com/raphaelquintao/Qolor) - Build perfect, harmonious Firefox themes using a cutting-edge OKLCH colour engine. 
+  
+#### Android - Preview
 - [QCarLauncher](https://github.com/raphaelquintao/QCarLauncherPreview) - Custom Automotive Android Launcher build from scratch!
-
 
 #### Linux Specific
 - [QLogo](https://github.com/raphaelquintao/qlogo) - A Minimalist Plymouth Theme.
@@ -44,7 +46,6 @@ I speak fluent Java, Javascript, PHP, C, C++, and a handful of others that I occ
 - [qimagemagick](https://github.com/raphaelquintao/node-qimagemagick) - A wrapper for the ImageMagick CLI.
 
 #### Javascript
-- [Photophobia](https://github.com/raphaelquintao/PhotophobiaFirefox) - Firefox dynamic theme that let you change the Hue, Saturation and Brightness of the Texts and Panels.
 - [QFirefoxMod](https://github.com/raphaelquintao/QFirefoxMod) - Bring back the old userChrome.js to newer Firefox, and more...
 - [QToasty](https://github.com/raphaelquintao/QToasty) - Pure JavaScript Mortal Kombat toasty guy easter egg. 
 - [QPlayer](https://github.com/raphaelquintao/QPlayer) - WebGL video player experiment
