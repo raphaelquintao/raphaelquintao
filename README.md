@@ -16,7 +16,7 @@ I speak fluent Java, Javascript, PHP, C, C++, and a handful of others that I occ
 ## Open Source Projects
 
 #### Browser Extension (Javascript)
-- [Qolor - Theme engine for Firefox](https://github.com/raphaelquintao/Qolor) - Build perfect, harmonious Firefox themes using a cutting-edge OKLCH colour engine. 
+- [Qolor: A dynamic theme engine for Firefox](https://github.com/raphaelquintao/Qolor) - Build perfect, harmonious Firefox themes using a cutting-edge OKLCH colour engine. 
   
 #### Android - Preview
 - [QCarLauncher](https://github.com/raphaelquintao/QCarLauncherPreview) - Custom Automotive Android Launcher build from scratch!
