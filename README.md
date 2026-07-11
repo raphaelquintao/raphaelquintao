@@ -1,17 +1,10 @@
-With over 15 years of programming, I’ve survived every version of every framework, wrestled with legacy systems, and debugged code that made me question what I was doing with my life. 
+**I'm a software engineer who enjoys building complete systems.**
 
-I speak fluent Java, Javascript, PHP, C, C++, and a handful of others that I occasionally regret learning.
+For over 20 years I've been building everything from Linux desktop applications, browser extensions, and Android launchers to web platforms, multimedia tools, color engines, developer utilities, and native system software. Whatever the project needs, I enjoy figuring out how it works and building it properly.
 
-**P.S.:** Write code like the next person to touch it knows where you live.
+I don't really have a favorite language. I have favorite problems.
 
-<details closed>
-<summary>More</summary>
- 
- - I also code for money, feel free to contact-me.
-
-</details>
-
-
+Most of my projects started because I couldn't find the tool I wanted.
 
 ## Open Source Projects
 
