@@ -2,7 +2,7 @@
 
 For over 20 years I've been building everything from Linux desktop applications, browser extensions, and Android launchers to web platforms, multimedia tools, color engines, developer utilities, and native system software. Whatever the project needs, I enjoy figuring out how it works and building it properly.
 
-I don't really have a favorite language. I have favorite problems.
+I don't really have a favorite language. **I have favorite problems.**
 
 Most of my projects started because I couldn't find the tool I wanted.
 
@@ -12,7 +12,7 @@ Most of my projects started because I couldn't find the tool I wanted.
 - [Qolor: A dynamic theme engine for Firefox](https://github.com/raphaelquintao/Qolor) - Build perfect, harmonious Firefox themes using a cutting-edge OKLCH colour engine. 
   
 #### Android - Preview
-- [QCarLauncher](https://github.com/raphaelquintao/QCarLauncherPreview) - Custom Automotive Android Launcher build from scratch!
+- [QCarLauncher](https://github.com/raphaelquintao/QCarLauncherPreview) - Automotive Android launcher built from scratch with CAN bus integration, TPMS support, Spotify lyrics, real-time visualizations, and extensive reverse engineering.
 
 #### Linux Specific
 - [QLogo](https://github.com/raphaelquintao/qlogo) - A Minimalist Plymouth Theme.
