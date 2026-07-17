@@ -54,7 +54,7 @@ Over time, this GitHub became a collection of very oddly specific projects. Most
 - **[QPlayer](https://github.com/raphaelquintao/QPlayer)**, WebGL, Three.js video player experiment
 - **[QToasty](https://github.com/raphaelquintao/QToasty)**, JavaScript Mortal Kombat easter egg.
 
-### 🤓 Academic
+### Academic
 
 - **[SimpsonDetector](https://github.com/raphaelquintao/SimpsonDetector)**, Mobile computer vision system to detect Simpsons characters using training images.
 - **[QGLC](https://github.com/raphaelquintao/QGLC)**, Single-pass recursive-descent LL(1) compiler written as an academic project.
