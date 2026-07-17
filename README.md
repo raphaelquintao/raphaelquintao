@@ -39,26 +39,29 @@ Over time, this GitHub became a collection of very oddly specific projects. Most
 - **[QLogo](https://github.com/raphaelquintao/qlogo)** - Minimalist Plymouth boot theme.
   > *I wanted a Plymouth theme exactly like that. I probably spent days finding things that were "almost" it.*
 
-- **[QRoute](https://github.com/raphaelquintao/QRoute)**, Single-file PHP router.
+- **[QRoute](https://github.com/raphaelquintao/QRoute)** - Single-file PHP router.
   > *I wanted a router library for PHP. Just a router class, not a framework.*
 
-- **[qimagemagick](https://github.com/raphaelquintao/node-qimagemagick)**.
+- **[qimagemagick](https://github.com/raphaelquintao/node-qimagemagick)** - A modern, fully Promise-based Node.js ImageMagick wrapper without the dependency bloat. 
   > *I wanted to use ImageMagick from Node.js. I found hundreds of packages with hundreds of dependencies. So I wrote one that only depends on ImageMagick. Well... ImageMagick and Axios.*
+  
+- **[QJukebox](https://github.com/raphaelquintao/QJukebox)** - Modern Discord music bot with native playlist support.
+  > I just wanted to easily save and stream my own playlists into a voice channel. The mainstream bots at the time kept choking on massive queues or locking playlist management behind a paywall. I bypassed the drama.
 
 ## More projects
 
 ### Experiments
 
-- **[QFirefoxMod](https://github.com/raphaelquintao/QFirefoxMod)**, Bring userChrome.js back to modern Firefox.
-- **[QBoids](https://github.com/raphaelquintao/QBoids)**, WebGL, Three.js implementation of Craig Reynolds' Boids.
-- **[QPlayer](https://github.com/raphaelquintao/QPlayer)**, WebGL, Three.js video player experiment
-- **[QToasty](https://github.com/raphaelquintao/QToasty)**, JavaScript Mortal Kombat easter egg.
+- **[QFirefoxMod](https://github.com/raphaelquintao/QFirefoxMod)** - Bring userChrome.js back to modern Firefox.
+- **[QBoids](https://github.com/raphaelquintao/QBoids)** - WebGL, Three.js implementation of Craig Reynolds' Boids.
+- **[QPlayer](https://github.com/raphaelquintao/QPlayer)** - WebGL, Three.js video player experiment
+- **[QToasty](https://github.com/raphaelquintao/QToasty)** - JavaScript Mortal Kombat easter egg.
 
 ### Academic
 
-- **[SimpsonDetector](https://github.com/raphaelquintao/SimpsonDetector)**, Mobile computer vision system to detect Simpsons characters using training images.
-- **[QGLC](https://github.com/raphaelquintao/QGLC)**, Single-pass recursive-descent LL(1) compiler written as an academic project.
-- **[QSE](https://github.com/raphaelquintao/QSE)**, Full search engine.
+- **[SimpsonDetector](https://github.com/raphaelquintao/SimpsonDetector)** - Mobile computer vision system to detect Simpsons characters using training images.
+- **[QGLC](https://github.com/raphaelquintao/QGLC)** - Single-pass recursive-descent LL(1) compiler written as an academic project.
+- **[QSE](https://github.com/raphaelquintao/QSE)** - Academic search engine.
 
 ---
 
@@ -66,7 +69,6 @@ Over time, this GitHub became a collection of very oddly specific projects. Most
 
 * I like understanding how things work before adding another layer.
 * I prefer small, focused tools over large solutions that do everything.
-* I remove dependencies when they add more weight than value.
 * I care about details most people will never notice.
 * I try to leave things simpler than I found them.
 
