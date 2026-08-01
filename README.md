@@ -1,8 +1,6 @@
-# Hi, I'm Raphael Quintão 👋
+# Hi, there 👋 ![](https://komarev.com/ghpvc/?username=raphaelquintao&color=B14D1B&style=pixel)
 
-**I'm a software engineer who enjoys building complete systems.**
-
-For over 20 years I've been building everything from Linux desktop applications, browser extensions, and Android launchers to web platforms, multimedia tools, color engines, developer utilities, and native system software.
+I'm Raphael, I've been building software for over 20 years, from Linux desktop applications, browser extensions, and Android launchers to web platforms, multimedia tools, color engines, developer utilities, and native system software.
 
 I don't really have a favorite language. **I have favorite problems**.
 
